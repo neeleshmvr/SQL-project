@@ -1,5 +1,5 @@
 # SQL-project
-Atliq hardware Finance and supply chain analysis
+Atliq hardware Finance and supply chain analysis by **CODEBASICS**
 
 Welcome to the AtliQ Hardwares Finance & Supply Chain Analytics Project repository. This repository contains the code and SQL queries utilized for the Finance & Supply Chain Domain section of the Data Analytics Bootcamp at Codebasics.
 
