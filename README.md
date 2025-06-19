@@ -24,7 +24,7 @@ Due to the growing size of Excel files, AtliQ Hardware has been facing significa
 * In the **APAC region**, **India** ranked **first** in terms of **total gross sales** for the year 2021.
 
 
-### **What I Learned**
+**What I Learned**
 
 * Gained hands-on experience in writing **complex SQL queries** to extract actionable insights from structured datasets involving sales, customers, regions, and products.
 * Developed a strong understanding of **JOIN operations**, **GROUP BY**, **aggregate functions**, and **window functions** to perform in-depth data analysis and generate performance metrics.
